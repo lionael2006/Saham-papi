@@ -1,0 +1,6 @@
+Require : 
+
+Python
+Plotly 5.10.0
+Yfinance 0.1.74
+Streamlit
